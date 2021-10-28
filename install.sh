@@ -3,11 +3,6 @@ homedir=/home/ubuntu
 apppath="axieDailyTrackerBot-SSAxie"
 echo "Installing the requirements ... "
 
-#appending source list required for the application 
-sudo echo "deb http://archive.ubuntu.com/ubuntu bionic main universe" >> /etc/apt/sources.list
-sudo echo "deb http://archive.ubuntu.com/ubuntu bionic-security main universe" >> /etc/apt/sources.list
-sudo echo "deb http://archive.ubuntu.com/ubuntu bionic-updates main universe" >> /etc/apt/sources.list
-
 echo "Updating source lists"
 sudo apt update
 
