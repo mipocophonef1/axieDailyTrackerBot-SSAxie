@@ -1,6 +1,6 @@
 #!/bin/bash
 homedir=/home/ubuntu
-apppath="DailyTracker-SSAxie"
+apppath="axieDailyTrackerBot-SSAxie"
 echo "Installing the requirements ... "
 
 
